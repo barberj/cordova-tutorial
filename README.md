@@ -1,4 +1,6 @@
-# My Steps (https://ccoenraets.github.io/cordova-tutorial/create-cordova-project.html)
+# My Steps 
+
+[Tutorial Link](https://ccoenraets.github.io/cordova-tutorial/create-cordova-project.html)
 ```
 npm install -g cordova
 ```
